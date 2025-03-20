@@ -1,0 +1,1 @@
+# Egys-gteszt---mockinggal
